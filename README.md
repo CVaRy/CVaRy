@@ -6,7 +6,7 @@
 ### <div align="center">Merhaba, Ben CVaRy 2018, den beri yazılım geliştiriyorum</div>  
   
 
-- 🔭 Çalışmalarımı incelemek istersen [Github Profilimi](https://github.com/rishavanand/github-profilinator) ziyaret edebilirsin.  
+- 🔭 Çalışmalarımı incelemek istersen [Github Profilimi](https://github.com/CVaRy) ziyaret edebilirsin.  
   
 
 - 🌱 Şuan da yeni projeler geliştiriyorum.  
